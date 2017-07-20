@@ -1,0 +1,11 @@
+{
+  "require": {
+    "illuminate/database": "^5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "core\\lib\\": "core/lib/",
+      "App\\Model\\": "app/Model/"
+    }
+  }
+}
